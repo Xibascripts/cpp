@@ -1,7 +1,6 @@
 # C++ REPOSITORY
 ## Creator: Xibascripts
 
-# Licensing and Fair use
 ## Rules for using Code in this repository:
 ### Credit must be given where it is due
 
